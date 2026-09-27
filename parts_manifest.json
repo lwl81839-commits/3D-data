@@ -1,0 +1,63 @@
+{
+  "archive": "11_Processed_Data_TriCal5.zip",
+  "bytes": 206678059,
+  "sha256": "7b34d75806f27ef04f8a6c8e6596d802e938fdaaee3c1f654f434f421b8c8a29",
+  "part_size_bytes": 20000000,
+  "parts": [
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part001",
+      "bytes": 20000000,
+      "sha256": "5d2164afdee2112f1b86ecf119b8759aef72065f235b912610c6c6579d2201b0"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part002",
+      "bytes": 20000000,
+      "sha256": "21a29063519c3bbf85331b0dc5802941a7c0225a1db3d603da805c3bdb09ec45"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part003",
+      "bytes": 20000000,
+      "sha256": "703639289a8ef6856a7c1d730dbb1252cd40b5b7af0e9382a63dac6f0b323a63"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part004",
+      "bytes": 20000000,
+      "sha256": "b0e8c890f7c8ad5cb22395a1b624db278ff1c886e24cfe0352a39c3aad780cd9"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part005",
+      "bytes": 20000000,
+      "sha256": "096311743a2cfcafc1597e830a451d0f7b38b592e96d7eefb146043be06f74e7"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part006",
+      "bytes": 20000000,
+      "sha256": "6eaae16704744907fa7ea3add889f8dac19f4445897d4fde596c120d31973a43"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part007",
+      "bytes": 20000000,
+      "sha256": "fc97823b86a8941b47aa40615768f9253847f1454689c815d373b78e173d5ef7"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part008",
+      "bytes": 20000000,
+      "sha256": "b4731d62e0d490f5f99c9b386fae16265bd81298971d7d8dbaaa38fff49a604f"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part009",
+      "bytes": 20000000,
+      "sha256": "4b1869625b873fd5470584a9f492f392d5108efeaea409cb29e8226ce1c9b0e1"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part010",
+      "bytes": 20000000,
+      "sha256": "7549041a50898b397dc48cd08dfc3a73edf7592daa472216a12aa59f4c1453ce"
+    },
+    {
+      "name": "11_Processed_Data_TriCal5.zip.part011",
+      "bytes": 6678059,
+      "sha256": "2dd0eee676c9e07fe098e3fa25e7412e81a2ed2ee94ffb41112def3a64d46678"
+    }
+  ]
+}
